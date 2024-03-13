@@ -1,0 +1,10 @@
+---
+title: "Review"
+author: "Benny Rochwerg"
+date: "March 13, 2024"
+output: pdf_document
+---
+
+The link to the GitHub Issue is:
+
+<https://github.com/pixel-echo/covid-trends/issues/8>
